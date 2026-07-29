@@ -4,7 +4,7 @@
 
 ---
 
-## Hey there, I'm Dio Azril 👋
+## Hey there, I'm Ezheriell 👋
 
 I'm a Computer Science student and mobile developer from Medan, Indonesia. I specialize in building elegant, performant cross-platform applications with Flutter and am deeply passionate about Machine Learning.
 
@@ -17,8 +17,7 @@ I'm a Computer Science student and mobile developer from Medan, Indonesia. I spe
 - 🧠 Exploring Machine Learning & AI
 - 🏗️ Passionate about Clean Architecture & scalable code
 - 🌱 Currently diving deeper into ML and advanced state management
-- ⚡ Fun fact: I can spend hours fixing a bug only to realize it was a missing semicolon!
-
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -64,7 +63,7 @@ I'm a Computer Science student and mobile developer from Medan, Indonesia. I spe
 | [flight-delay-prediction](https://github.com/Ezherielll/flight-delay-prediction) | Flutter + XGBoost ML + Serverpod dual-backend app | Flutter, Python, Serverpod, XGBoost |
 | [taskforge-app](https://github.com/Ezherielll/taskforge-app) | Modern todo app with Riverpod 3 + Drift | Flutter, Riverpod, Drift |
 | [chatify_app](https://github.com/Ezherielll/chatify_app) | Real-time Firebase chat application | Flutter, Firebase, BLoC |
-| [my_todo_app](https://github.com/Ezherielll/my_todo_app) | BLoC pattern todo app (11 ⭐) | Flutter, BLoC, SQLite |
+| [my_todo_app](https://github.com/Ezherielll/my_todo_app) | BLoC pattern todo app | Flutter, BLoC, SQLite |
 | [Dio-Azril](https://github.com/Ezherielll/Dio-Azril) | Personal portfolio | Flutter Web |
 | [Data-Science-Projects](https://github.com/Ezherielll/Data-Science-Projects) | ML & Data Science collection | Python, Pandas, Scikit-learn |
 
