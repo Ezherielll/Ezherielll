@@ -36,7 +36,6 @@ I'm a Computer Science student and mobile developer from Medan, Indonesia. I spe
 **ML & Data**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -51,8 +50,6 @@ I'm a Computer Science student and mobile developer from Medan, Indonesia. I spe
 **Architecture**<br>
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-333333?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC-333333?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-333333?style=for-the-badge)
 
 ---
 
