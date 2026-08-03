@@ -43,34 +43,3 @@ Computer Science student from Medan, Indonesia. I build cross-platform apps with
 | [chatify_app](https://github.com/Ezherielll/chatify_app) | Real-time chat app powered by Firebase + BLoC | In Progress |
 | [Data-Science-Projects](https://github.com/Ezherielll/Data-Science-Projects) | Collection of ML & data science notebooks | Collection |
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ezherielll&theme=github_dark" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ezherielll&theme=github_dark" width="49%" alt="Top Languages" />
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://x.com/Heyziell_">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter / X" />
-  </a>
-  <a href="https://github.com/Ezherielll">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:dioazril@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Thanks for stopping by — feel free to explore and star a repo you find useful.<br><br>
-  <img src="https://komarev.com/ghpvc/?username=Ezherielll&style=flat-square&color=02569B" alt="Visitor Count" />
-</p>
