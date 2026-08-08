@@ -38,5 +38,6 @@ Computer Science student from Indonesia, building cross-platform applications wi
 |---------|-------------|--------|
 | [flight-delay-prediction](https://github.com/Ezherielll/flight-delay-prediction) | Flutter + XGBoost ML app with a Serverpod dual-backend | **Production** |
 | [MarkIt](https://github.com/Ezherielll/markit) | A document → Markdown converter for desktop (Windows / macOS / Linux) and web | **Production** |
+| [NearBuddy](https://github.com/Ezherielll/nearbuddy) | NearBuddy is a general-purpose peer-to-peer mesh messenger that works without internet, cellular signal, or accounts | **Production** |
 | [Data-Science-Projects](https://github.com/Ezherielll/Data-Science-Projects) | Collection of ML & data science notebooks | Collection |
 
